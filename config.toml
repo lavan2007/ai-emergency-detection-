@@ -1,0 +1,2 @@
+[functions.classify-emergency]
+verify_jwt = false
